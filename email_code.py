@@ -5,7 +5,7 @@ from email.header import decode_header
 import PyPDF2
   
 # Configuration
-EMAIL = "chaitrapaladugula@gmail.com"
+EMAIL = "**********"
 PASSWORD = "********" 
 IMAP_SERVER = "imap.gmail.com"
 SUBJECT_KEYWORD = "Invoice"
